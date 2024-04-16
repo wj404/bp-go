@@ -10,7 +10,7 @@ import (
 	"encoding/binary"
 	"math/big"
 
-	"github.com/btcsuite/btcd/btcec"
+	"github.com/btcsuite/btcec"
 )
 
 var VecLength = 64
